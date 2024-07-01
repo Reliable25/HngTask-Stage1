@@ -1,0 +1,12 @@
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\HNGTASK.exe
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\HNGTASK.dll
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\HNGTASK.deps.json
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\HNGTASK.runtimeconfig.json
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\HNGTASK.pdb
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Ridwan doc\Personal Project\HNGTASK\HNGTASK\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
